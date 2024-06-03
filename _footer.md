@@ -1,0 +1,1 @@
+<p style="text-align:center;"><img src="http://www.beian.gov.cn/img/new/gongan.png"><a href="https://beian.miit.gov.cn/#/Integrated/recordQuery" target="_blank" style="margin-left:3px;">浙ICP备</a><a href="https://www.version-carol.cn/" target="_blank" style="margin-left:3px;">2023004447号-2</a></p>
