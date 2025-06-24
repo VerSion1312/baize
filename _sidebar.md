@@ -68,7 +68,8 @@
   - [经验分享](docs/craw/experience)
 - 问题记录
   - [nodejs抛出异常digital envelope routines::unsupported](docs/solution/nodejs抛出异常digital-envelope-routinesunsupported.md)
-
+  - [使用Certbot创建ssl证书并自动续期.md](docs/solution/使用Certbot创建ssl证书并自动续期.md)
+  
 - 易经六十四卦
   - [01-乾](docs/ZhouYi/01-Qian)
   - [02-坤](docs/ZhouYi/02-Kun)
