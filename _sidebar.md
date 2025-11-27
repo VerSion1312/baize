@@ -69,7 +69,7 @@
 - 问题记录
   - [nodejs抛出异常digital envelope routines::unsupported](docs/solution/nodejs抛出异常digital-envelope-routinesunsupported.md)
   - [使用Certbot创建ssl证书并自动续期](docs/solution/使用Certbot创建ssl证书并自动续期.md)
-  - [Let's Encrypt 证书更新失败与修复全记录](docs/solution/Let's Encrypt 证书更新失败与修复全记录.md)
+  - [Certbot 证书更新失败与修复全记录](docs/solution/Certbot证书更新失败与修复全记录.md)
   
 - 易经六十四卦
   - [01-乾](docs/ZhouYi/01-Qian)

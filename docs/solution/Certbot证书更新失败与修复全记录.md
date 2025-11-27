@@ -1,4 +1,4 @@
-# 一次真实的 Let's Encrypt 证书更新失败与修复全记录  
+# 一次真实的 Certbot 证书更新失败与修复全记录  
 > **关键词：Certbot、Nginx、证书过期、ACME 验证失败、File exists、ssl_certificate 加载错误**
 
 ---
